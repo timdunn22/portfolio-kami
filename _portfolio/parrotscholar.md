@@ -2,7 +2,7 @@
 layout: post
 title: ParrotScholar
 thumbnail-path: "img/parrotscholar.png"
-short-description: ParrotScholar is a platform where teachers and teachers can meet and have classes
+short-description: ParrotScholar is a platform where teachers and students can meet and have classes
 
 ---
 
